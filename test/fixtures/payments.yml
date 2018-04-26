@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  payday: 2018-04-01 20:05:55
+  status: false
+
+two:
+  payday: 2018-04-01 20:05:55
+  status: false
